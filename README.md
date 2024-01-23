@@ -11,13 +11,13 @@ Time spent: **2.5** hours spent in total
 The following **required** functionality is completed:
 
 * [X ] Image and introductory message displayed on screen
-* [X] Button displayed on screen
-* [X] Toast with message appears when button is pressed 
+* [X_] Button displayed on screen
+* [X_] Toast with message appears when button is pressed 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+![](https://github.com/jpole32/IntroductionJohnAndroidDev/blob/master/introDemoGif.gif)
 GIF created with ezgif.com
 
 ## License
